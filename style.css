@@ -1,0 +1,90 @@
+html {
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: rgb(244,168,200);
+    background: -moz-linear-gradient(90deg, rgba(244,168,200,1) 0%, rgba(0,109,246,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(244,168,200,1) 0%, rgba(0,109,246,1) 100%);
+    background: linear-gradient(90deg, rgba(244,168,200,1) 0%, rgba(0,109,246,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4a8c8",endColorstr="#006df6",GradientType=1);
+}
+
+h1 {
+    font-family: "Sofia", sans-serif;
+    color: rgba(0,109,246,1)
+}
+
+.name {
+    font-family: "Sofia", sans-serif;
+    color: rgba(0,109,246,1);
+    font-size: 20px;
+}
+
+.name1 {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    color:  rgb(244,168,200);
+}
+.price{
+    font-family: "Sofia", sans-serif;
+    color: rgba(0,109,246,1);
+    font-size: 20px;
+}
+
+.education {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    color:  rgb(244,168,200);
+}
+
+.networth {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    color:  rgb(244,168,200);
+}
+
+.skills {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    color:  rgb(244,168,200);
+}
+
+.age {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    color:  rgb(244,168,200);
+}
+
+.reputation {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    color:  rgb(244,168,200);
+}
+
+.p {
+    font-family: "Sofia", sans-serif;
+    color: rgba(0,109,246,1);
+    font-size: 20px;
+}
+
+.container {
+    background: #fff;
+    border-radius: 10px;
+}
+
+hr {
+    margin-left: 0;
+    width: 370px;
+    height: 2.5px;
+    background: rgb(194, 83, 245);
+}
+
+.loveletter {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    color:  rgb(244,168,200);
+}
